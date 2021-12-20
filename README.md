@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @james-arn (James Arnold)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Javascript
-- 💞️ I’m looking to collaborate on ...
+Junior Developer who has previously started & built a six figure media company, now seeking to get into software development full-time.
+
 
 <!---
 james-arn/james-arn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
