@@ -1,4 +1,4 @@
-Junior Developer who has previously started & built a six figure media company, now seeking to get into software development full-time.
+Junior Developer at Buzz Interactive, Newquay
 
 https://james-arn.github.io/Portfolio/
 
