@@ -1,4 +1,4 @@
-Junior Developer at Buzz Interactive, Newquay
+Frontend Developer at Buzz Interactive, Newquay
 
 https://james-arn.github.io/Portfolio/
 
